@@ -1,0 +1,457 @@
+#,Subjects,Start date,Close Date
+25581, Quick invest page for sip,29-Oct-21,08-Nov-21
+25579,Data is missing on Videos page for lumpsum,29-Oct-21,01-Nov-21
+25577,Mf fund detail page for sell,29-Oct-21,02-Nov-21
+25575,Heading is not displayed for swp,29-Oct-21,08-Nov-21
+25569,UI for holding type on cart page for sell  ,29-Oct-21,30-Oct-21
+25563,UI on cart page is aligned properly for sell ,29-Oct-21,30-Oct-21
+25559,Tools - UI issue for stp,29-Oct-21,01-Nov-21
+25555,UI is not proper in IPhone for sip,29-Oct-21,01-Nov-21
+25544,Blackstrip menus are missing for sell,29-Oct-21,03-Nov-21
+25542,Sub menus displayed on IPAD are different than sub menus displayed on chrome for stp,29-Oct-21,30-Oct-21
+25538,Section is repeated on PMS page for orderbook,29-Oct-21,30-Oct-21
+25526,ETF page UI for swp,28-Oct-21,29-Oct-21
+25524,Index fund page error for swp,28-Oct-21,09-Nov-21
+25519,Index fund error for lumpsum,28-Oct-21,
+25510,Download section for lumpsum,28-Oct-21,30-Oct-21
+25507,NAV and Dividend page UI for sip,28-Oct-21,01-Nov-21
+25506,Fund detail page (Know more functionality),28-Oct-21,01-Nov-21
+24967,Lumpsum cashflow page error ,13-Oct-21,20-Oct-21
+24966,STP - UI issue,13-Oct-21,18-Oct-21
+24919,Distributor details are not updated for sell ,12-Oct-21,14-Oct-21
+24908,Quick invest UI issue,12-Oct-21,21-Oct-21
+24814,Text colour - IPAD ,11-Oct-21,19-Oct-21
+24812,Dashboard page - Ipad ,11-Oct-21,22-Oct-21
+24803,No action is performed after clicking on send icon for sell ,11-Oct-21,03-Nov-21
+24802,Newsletter accepts invalid email address for stp,11-Oct-21,18-Oct-21
+24796,Sitemap issue for sip,11-Oct-21,22-Oct-21
+24789,"Bank details - "" Name as on bank "" error for sip",11-Oct-21,14-Oct-21
+24738,Minor name is not displayed on transaction pages for swp ,11-Oct-21,19-Oct-21
+24724,SIP booster page redirection for stp,08-Oct-21,18-Oct-21
+24716,UI for cashflow is different in MAC and Window's system for sell,08-Oct-21,18-Oct-21
+24617,Menus displayed for Guest login are invalid for lumpsum,07-Oct-21,18-Oct-21
+24534,Know more button  is not clickable for lumpsum,06-Oct-21,07-Oct-21
+24532,Some functionality are not working for Mutual fund > home page ,06-Oct-21,14-Oct-21
+24527,Quick invest redirection error ,06-Oct-21,11-Oct-21
+24525,One time mandate redirection error for swp,06-Oct-21,14-Oct-21
+24521,Account statement redirection is invalid for stp,06-Oct-21,18-Oct-21
+24495,Index fund tab is not selected in header menu's when clicked on it for sell,06-Oct-21,14-Oct-21
+24487,URL for login is invalid ,06-Oct-21,02-Nov-21
+24460,URL for Regulatory updates is invalid ,06-Oct-21,20-Oct-21
+24456,UI for tools page ,06-Oct-21,11-Oct-21
+24452,Error on NAV page for sip,06-Oct-21,20-Oct-21
+24447,FAQ page is only loading for stp,06-Oct-21,14-Oct-21
+24445,"About us page displays ""404"" error message",06-Oct-21,14-Oct-21
+24443,Downloads page is not loading for orderbook,06-Oct-21,21-Oct-21
+24441,"Contact Us Page displays ""404"" error message for orderbook ",06-Oct-21,14-Oct-21
+24439,Folio number not displayed correctly in orderbook,06-Oct-21,11-Oct-21
+24416,All schemes are not displayed in sip,06-Oct-21,13-Oct-21
+23630,UI for folio details page is not proper for swp ,15-Sep-21,11-Oct-21
+23629,Folio number is getting blanked when changing scheme for stp ,15-Sep-21,18-Oct-21
+23625,Getting  404 error after folio creation  for sip,15-Sep-21,11-Oct-21
+23624,Invalid IFSC code is accepted for lumpsum,15-Sep-21,12-Oct-21
+23609,Quick invest page > SIP ,15-Sep-21,11-Oct-21
+23604,UI for search option is not proper on Quick invest page,15-Sep-21,11-Oct-21
+23437,Redemption - Sell - bank option displayed twice ,08-Sep-21,11-Oct-21
+23425,UI for purchase pages is not aligned properly for stp ,08-Sep-21,11-Oct-21
+23283,Edit SIP - end date displayed for perpetual tenure is invalid ,03-Sep-21,11-Oct-21
+23281,SIP Start date should not be saturday or sunday for weekly frequency ,03-Sep-21,11-Oct-21
+23255,Reschedule icon appears for SIP even after the scheme is updated,02-Sep-21,11-Oct-21
+23242,UI issues for IPAD (safari),01-Sep-21,11-Oct-21
+23159,Not able to proceed with SWP transaction ,27-Aug-21,30-Aug-21
+23157,Invested funds - Absolute returns and XIRR value should be displayed ,27-Aug-21,30-Oct-21
+22973,UI is not proper for Schedule investment pages for tablet android ,20-Aug-21,20-Aug-21
+22961,Invested funds should display option type in scheme name ,18-Aug-21,26-Aug-21
+22960,UI for review and checkout page is not proper for stp,18-Aug-21,
+22741,Schedule transaction - STP - pages goes blank ,13-Aug-21,30-Aug-21
+22738,Basket invest menu is not displayed in UAT for sip,13-Aug-21,03-Sep-21
+22728,Add mandate - not able to check checkbox for terms and conditions for sell ,13-Aug-21,15-Nov-21
+22725,UI for Add mandate is not proper for sell,13-Aug-21,18-Aug-21
+22714,Schedule transaction - SIP/ STP / SWP ,12-Aug-21,17-Aug-21
+22708,Review and checkout page - Error message is displayed for fatca details for sell ,12-Aug-21,20-Aug-21
+22695,Schedule SWP - Data is not displayed,12-Aug-21,18-Aug-21
+22658,Schedule transaction - SWP - Page does not load when changing dates ,12-Aug-21,18-Aug-21
+22652,Add bank - Bank details are getting added multiple times for stp ,12-Aug-21,21-Aug-21
+22650,Schedule SIP - data displayed for upcoming installments is wrong ,12-Aug-21,18-Aug-21
+22639,Data points do not change for pan number : BFAPB9481E,12-Aug-21,23-Aug-21
+22622,Schedule SWP ,11-Aug-21,25-Aug-21
+22617,Schedule transaction - SIP - Daily frequency is displayed ,11-Aug-21,
+22613,Schedule transaction - SWP ,11-Aug-21,27-Aug-21
+22610,"Schedule SWP - Completed transaction should not display ""Cancel SWP"" option ",11-Aug-21,25-Aug-21
+22607,Schedule SWP ,11-Aug-21,20-Aug-21
+22606,Schedule transaction - SWP,11-Aug-21,18-Aug-21
+22600,Schedule SWP - Online / offline buttons are not working ,11-Aug-21,27-Aug-21
+22598,Schedule SIP - Tenure displayed for weekly frequency is invalid ,11-Aug-21,18-Aug-21
+22597,Schedule SIP - Tenure displayed for fortnightly frequency is invalid ,11-Aug-21,22-Oct-21
+22594,Schedule SIP - for perpetual tenure end date should change in boost option ,11-Aug-21,20-Aug-21
+22582,Schedule SIP - Completed Status ,11-Aug-21,25-Aug-21
+22558,Schedule investment - SWP ,10-Aug-21,18-Aug-21
+22536,Schedule Investment - SIP / STP/ SWP ,10-Aug-21,20-Aug-21
+22466,Schedule investment - SIP / SWP ,10-Aug-21,25-Aug-21
+22398,Scheme basket page - Calendar  not aligned properly,09-Aug-21,25-Aug-21
+22370,Schedule investments - Not getting canceled ,07-Aug-21,27-Aug-21
+22352,Login button - Text label should change after user has logged out ,07-Aug-21,18-Aug-21
+22351,Schedule Investment - SIP ,07-Aug-21,18-Aug-21
+22345,Distributor details is not getting updated - Review and checkout page ,07-Aug-21,09-Aug-21
+22321,Account statement - Cost investment  / STP amount displayed is invalid ,07-Aug-21,18-Aug-21
+22319,Order summary - Scheme name  should be displayed properly ,07-Aug-21,25-Aug-21
+22296,Add Bank - IFSC code accepts only alphabets and only numbers ,06-Aug-21,07-Aug-21
+22295,Bank summary page is not displayed for sip,06-Aug-21,07-Aug-21
+22292,Not able to click on new funds tab for any transaction pages ,06-Aug-21,07-Aug-21
+22237,Tenure displayed for schedule investment - Sip is not valid for Cancel and Pause SIP,06-Aug-21,18-Aug-21
+22211,Schedule investment - SIP - Status column should be displayed ,05-Aug-21,18-Aug-21
+22209,Schedule investment - SIP - Upcoming installments ,05-Aug-21,27-Aug-21
+22172,Number of installments do not match with API ,05-Aug-21,18-Aug-21
+22162,Schedule investment - SIP - Schemes are not getting boosted ,05-Aug-21,20-Aug-21
+22074,Switch - error message should be displayed to maintain minimum balance of  500 units ,04-Aug-21,09-Aug-21
+22035,OTP is not received for MF Beta ,04-Aug-21,09-Aug-21
+21587,More than 8 schemes are allowed to transact on review and checkout page,29-Jul-21,03-Aug-21
+21580,Review and checkout page for SIP,29-Jul-21,
+21486,"Pop up window for edit , does not display option type and plan for scheme name for stp ",28-Jul-21,23-Aug-21
+21484,New funds - NAV values and percentage invalid for stp,28-Jul-21,25-Aug-21
+21469,Order summary does not display option type and plan for scheme name for sell  ,27-Jul-21,06-Aug-21
+21360,Holder name displayed on login page is invalid ,27-Jul-21,18-Aug-21
+20910,"on Add Bank, Add Mandate holding type and holder name not display.",22-Jul-21,09-Sep-21
+20880,SIP schemes are not displayed in cart after coming from net banking pages,20-Jul-21,26-Jul-21
+20878,Compare funds - Basket investment - Post login ,20-Jul-21,26-Jul-21
+20833,Folio number selected in SIP transaction is not displayed in cart,20-Jul-21,12-Aug-21
+20829,Holder name displayed is invalid in sell,20-Jul-21,18-Aug-21
+20813,When editing SIP scheme start date should display T+22 date on cart page ,20-Jul-21,20-Jul-21
+20811,Tooltip is not displayed properly for SIP today - Pilot ,20-Jul-21,20-Jul-21
+20767,New investor pan is displayed as ZBF pan ,19-Jul-21,22-Jul-21
+20666,text not display correctly on cart,17-Jul-21,20-Jul-21
+20301,Folio numbers don't match on stp,13-Jul-21,02-Aug-21
+20285,Existing RIA  option is displayed for newly created folio ,13-Jul-21,17-Jul-21
+20204,Options are not displayed on create on new folio - Fatca page ,12-Jul-21,12-Jul-21
+20101,Cart page does not display bank - Pilot ,08-Jul-21,12-Jul-21
+20099,Data points displayed on Pilot are invalid ,08-Jul-21,19-Jul-21
+20075,New user's data is prefilled on personal details page ,07-Jul-21,20-Jul-21
+20044,Holder name is not displayed - for new funds tab ,07-Jul-21,20-Oct-21
+20036,Create new folio - Personal details page ,07-Jul-21,13-Jul-21
+20004,Scheme name can be reset when switching transaction types ,06-Jul-21,21-Oct-21
+20000,Switch - Error message is displayed before every transaction performed ,06-Jul-21,08-Jul-21
+19948,Switch page - Available units text is not displayed ,06-Jul-21,08-Jul-21
+19946,Scheme names are displayed multiple times - Pilot on sip ,06-Jul-21,13-Jul-21
+19945,Data points are not displayed for transaction pages for stp,06-Jul-21,25-Aug-21
+19943,Lumpsum cashflow - Multi asset fund ,06-Jul-21,17-Jul-21
+19936,Holding type - All transaction pages ,06-Jul-21,26-Aug-21
+19931,Lumpsum cashflow - Payment modes ,06-Jul-21,13-Jul-21
+19930,Holder name and scheme details not display,06-Jul-21,09-Sep-21
+19929,Lumpsum cashflow (Pilot) - Displays no payment modes ,06-Jul-21,17-Jul-21
+19899,folio creation page not display,06-Jul-21,13-Jul-21
+19897,Quick buy page,06-Jul-21,08-Jul-21
+19885,"Lumpsum cashflow page - Displays ""tick"" mark when clicked on Cashflow toggle button",06-Jul-21,
+17223,Selected folio number not displayed in holder name dropdown-Pilot,03-Jun-21,18-Aug-21
+17215,UPI payment mode is not displayed for only lumpsum transaction,02-Jun-21,26-Jul-21
+17201, Create new folio ,02-Jun-21,
+17138,Asset allocation - Dashboard ,01-Jun-21,06-Aug-21
+17075,No scheme is displayed in cart for pan number - AINPB3364D / AFEPC8725R,01-Jun-21,18-Aug-21
+17074,Risk not displayed for NFO funds - Pilot,01-Jun-21,25-Aug-21
+17042,Distributor code not displayed for STP,31-May-21,12-Aug-21
+17039,Scheme deletion on cart for stp ,31-May-21,
+17035,Holder name is not displayed for any of the transaction pages ,31-May-21,17-Jul-21
+17033,Asset allocation - Total gain / loss ,31-May-21,
+17018,SIP today message ,31-May-21,07-Jul-21
+17015,In scheme name Growth word is repeated - UAT,31-May-21,27-Aug-21
+17013,"In tnc, KIM and disclaimer word should be clickable-UAT",31-May-21,21-Aug-21
+17012,"In tnc, KIM and disclaimer word should be clickable-Pilot",31-May-21,17-Aug-21
+17011,100% value is displayed in asset allocation total gain /loss ,31-May-21,12-Jul-21
+17003,ZBF - Capital gain /loss report,29-May-21,20-Jul-21
+17000,Create new folio - mode of holding ,29-May-21,12-Oct-21
+16996,Distributor option should be aligned properly ,29-May-21,08-Jul-21
+16994,Login text ,29-May-21,01-Jun-21
+16993,ZBF folio ,29-May-21,18-Aug-21
+16970,Regular schemes are displayed in Direct cart on review and checkout page ,29-May-21,13-Jul-21
+16967,"Risk "" i "" icon is missing on transaction pages",29-May-21,22-Jul-21
+16966,Distributor details option not available for pan number : AFEPC8725R,29-May-21,13-Jul-21
+16963,Basket page for stp,29-May-21,08-Jul-21
+16951,Data issue for a pan number : AFEPC8725R / AINPB3346D / ,28-May-21,01-Sep-21
+16940,ZBF menus should be displayed for new investor,28-May-21,20-Jul-21
+16935,Create new folio error for sell ,28-May-21,12-Jul-21
+16913,verification of annual returns and in process activity - Pilot,28-May-21,
+16843,Dummy data is displayed for day gain value in dashboard ,28-May-21,08-Jul-21
+16778,Units values displayed are incorrect ,27-May-21,13-Jul-21
+16775,Asset allocation and Portfolio details view ,27-May-21,17-Jul-21
+16726,Lumpsum cashflow - Frequency Error,27-May-21,28-May-21
+16665,NAV values after decimal should be 4 digits ,27-May-21,01-Jun-21
+16646,UI  issue for transaction pages ,26-May-21,20-Aug-21
+16639,Folio and mode of holding is not prefilled when redirected from dashboard ,26-May-21,31-May-21
+16637,Upcoming SIP,26-May-21,08-Jul-21
+16571,Tooltip for in process activity ,26-May-21,17-Jul-21
+16557,Risk factor ,25-May-21,26-Aug-21
+16556,Add to Cart - Invest module.,25-May-21,17-Jul-21
+16526,Scheme type and scheme name not getting prefilled on new funds tab of transaction page ,24-May-21,13-Jul-21
+16506,Portfolio details view section,24-May-21,31-May-21
+16500,Checkbox for terms and conditions for stp,24-May-21,01-Jun-21
+16491,Reschedule icon navigation error for sip,24-May-21,19-Jul-21
+16474,Holder name and folio number dropdown not displayed for new funds ,24-May-21,23-Aug-21
+16439,UTR field is missing ,24-May-21,17-Jul-21
+16286,SIP transaction page ,21-May-21,17-Jul-21
+16135,Terms and condition message for transaction pages ,19-May-21,24-May-21
+16132,ARN code error,19-May-21,
+16040,Latest activities  ,19-May-21,20-May-21
+16008,ZBF redemption error message for order book ,19-May-21,18-Aug-21
+16000,Distributor details ,19-May-21,24-May-21
+15998,"Risk "" i "" icon ",19-May-21,25-May-21
+15906,Login page background colour ,18-May-21,06-Aug-21
+15905,Delete message for lumpus ,18-May-21,28-May-21
+15904,Neft / Rtgs error for table( notice),18-May-21,17-Jul-21
+15894,Plan option - Category page and fund detail page ,18-May-21,24-May-21
+15890,Payment mode issue - Review and checkout page ,18-May-21,09-Aug-21
+15856,Lumpsum cashflow - user can proceed without checkmark on terms and conditions,17-May-21,19-May-21
+15719,Distributor details for sell ,15-May-21,31-May-21
+15705,Payment modes with different combinations or sell ,15-May-21,
+15619,New investor and non kyc investor for sip,15-May-21,18-May-21
+15606,Basket invest - Know more button for sell,14-May-21,17-May-21
+15605,Side menus - Post login for stp,14-May-21,24-May-21
+15604,HUF folio creation  error for swp,14-May-21,17-Jul-21
+15603,Overseas address for orderbook ,14-May-21,17-May-21
+15602,Basket invest - Redirection issue (Passive Funds),14-May-21,18-May-21
+15555,User not able to enter email id for KYC & Non KYC pan,14-May-21,17-May-21
+15253,ZBF menus ,10-May-21,18-May-21
+15208,"Onboarding page displays ""false,,Please provide second holder tax resident"" error message .",10-May-21,14-May-21
+15174,Inconsistent behaviour of sidebar ,10-May-21,12-May-21
+15170,functional message for PMS ,10-May-21,17-May-21
+15034,ZBF,06-May-21,07-May-21
+14987,Swp,06-May-21,14-May-21
+14984,STP calendar,06-May-21,
+14982,order book pagination ,06-May-21,09-May-21
+14883,"Text colour is very light - iphone ,Ipad",05-May-21,23-Aug-21
+14873,Create new folio - iphone,05-May-21,09-May-21
+14865,Invest -Iphone ,05-May-21,11-May-21
+14855,Review and checkout page - iphone ,05-May-21,14-May-21
+14796,Iphone ,05-May-21,18-May-21
+14787,my portfolio,05-May-21,08-May-21
+14783,Side menus ,05-May-21,08-May-21
+14780,SIP start date end date displayed below,05-May-21,09-Jul-21
+14779,Header turned white,05-May-21,09-May-21
+14771,order book - tablet ,05-May-21,09-May-21
+14763,Sell -  tablet ,05-May-21,20-Aug-21
+14738,"Schedule SWP , STP",05-May-21,
+14732,Schedule investment  ,05-May-21,
+14606,Basket Invest -  Tablet android ,04-May-21,07-May-21
+14549,"Portfolio graph is not displayed properly-Ipad, mobile android",03-May-21,24-May-21
+14544,Navigation button should be provided ,03-May-21,11-Oct-21
+14511,Scheme names are overlapping ,03-May-21,06-May-21
+14482,Account statement - MAC ,03-May-21,06-May-21
+14480,Capital gain / loss - MAC ,03-May-21,06-May-21
+14478,Schedule SIP - MAC ,03-May-21,06-May-21
+14476,Schedule SWP - MAC ,03-May-21,14-May-21
+14475,SWP - MAC ,03-May-21,06-May-21
+14473,Error message does not disappear for sip,03-May-21,11-May-21
+14471,Transfer for stp,03-May-21,14-May-21
+14469,Create new folio ,03-May-21,10-May-21
+14465,Order summary page ,03-May-21,06-May-21
+14462,Lumpsum image should aligned at right -MAC,03-May-21,08-May-21
+14459,"Distributor details not aligned properly for SIP, Lumpsum and cart page - MAC",03-May-21,06-May-21
+14407,Basket invest UI - MAC,30-Apr-21,07-May-21
+14284,Portfolio details view ,29-Apr-21,06-May-21
+14282,Login page ,29-Apr-21,06-May-21
+14260,Sip - schedule now icon ,29-Apr-21,06-May-21
+14252,start today checkbox ,29-Apr-21,06-May-21
+14251,Lumpsum cashflow ,29-Apr-21,06-May-21
+14250,Lumpsum cashflow,29-Apr-21,06-May-21
+14238,Header menus / hamburger icon  - iPad,28-Apr-21,06-May-21
+14237,Spelling should be aligned properly ,28-Apr-21,08-May-21
+14236,Need navigation icon for quick links ,28-Apr-21,11-Oct-21
+14188,nominee and bank details - iPad,28-Apr-21,12-May-21
+14176,Fatca details ,28-Apr-21,15-May-21
+14174,Personal detail page ,28-Apr-21,07-May-21
+14172,Account statement ,28-Apr-21,07-May-21
+14168,Bank summary ipad /tablet ,28-Apr-21,25-Aug-21
+14167,Add new bank - iPad / tablet ,28-Apr-21,18-May-21
+14166,Capital gain /loss - iPad / tablet ,28-Apr-21,07-May-21
+14137,Lumpsum cashflow page -Ipad ,28-Apr-21,14-May-21
+14135,SIP page -iPad / tablet ,28-Apr-21,14-May-21
+14134,"After folio creation of ZBF , dashboard boxes keeps on loading.",28-Apr-21,11-May-21
+14128,Review and checkout page  ipad,28-Apr-21,14-May-21
+14041,Not able to enter Distributor Code for Direct Plan and Regular Plan,27-Apr-21,29-Apr-21
+14016,Holder name text color,26-Apr-21,15-May-21
+14015,Basket invest page ,26-Apr-21,14-May-21
+14013,Quick links ,26-Apr-21,06-May-21
+14012,Pages  with side menus ,26-Apr-21,06-May-21
+14008,Assest allocation graph ,26-Apr-21,14-May-21
+14004,Order book ,26-Apr-21,08-May-21
+13868,New investor and non kyc investor ,26-Apr-21,07-May-21
+13866,Otp error message ,26-Apr-21,06-May-21
+13862,Login page for Ipad,26-Apr-21,06-May-21
+13799,Not able to proceed for cart page ,23-Apr-21,29-Apr-21
+13675,SIP installments ,23-Apr-21,25-Aug-21
+13673,Order summary page ,23-Apr-21,
+13599,Not able to test on edge app,22-Apr-21,06-May-21
+13589,New funds page goes blank ,22-Apr-21,27-Apr-21
+13483,Non kyc and KYC  fields not aligned properly in edge app,20-Apr-21,06-May-21
+13476,Add bank page not aligned properly for lumpsum,20-Apr-21,06-May-21
+13472,Amount text is small for sell,20-Apr-21,06-May-21
+13469,Columns for order summary are not aligned properly with expanded side bar ,20-Apr-21,
+13466,Sometimes the end of the page is not visible for swp ,20-Apr-21,06-May-21
+13463,Transaction type for Cashflow ,20-Apr-21,07-Aug-21
+13461,Image for Add money for sell,20-Apr-21,06-May-21
+13459,Basket invest - Quick buy pop up,20-Apr-21,26-Apr-21
+13458,SIP not aligned properly ,20-Apr-21,06-May-21
+13457,Option dropdown is not visible some times ,20-Apr-21,06-May-21
+13456,Assest allocation graph for sell,20-Apr-21,06-May-21
+13455,Latest activities for lumpsum,20-Apr-21,06-May-21
+13454,Folio number is underlined lumpsum,20-Apr-21,06-May-21
+13447,Add bank sell,20-Apr-21,06-May-21
+13418,order book,19-Apr-21,26-Apr-21
+13417,Schedule investment  Stp,19-Apr-21,06-May-21
+13414,Calendar dropdown for year is not displayed properly sip ,19-Apr-21,06-May-21
+13413,Capital gain /loss sip,19-Apr-21,07-Jul-21
+13411,"SIP reports , Capital gain /loss , Account statement not displayed properly ",19-Apr-21,06-May-21
+13410,Reports text label is not displayed properly ,19-Apr-21,06-May-21
+13403,Reports text label is not displayed properly ,19-Apr-21,
+13402,Dropdown size for STP ,19-Apr-21,06-May-21
+13397,Proper error message not getting display,19-Apr-21,15-May-21
+13389,without entering Overseas address and overseas zip code allow to proceed,19-Apr-21,06-May-21
+13368,End date ,19-Apr-21,22-Apr-21
+13351,Minor guardian Pan and guardian name Issue,19-Apr-21,27-Apr-21
+13343,New funds stp,19-Apr-21,29-Apr-21
+13340,Fatca details swp ,19-Apr-21,
+13337,Newly created folio is not seen in transaction pages sip ,19-Apr-21,18-May-21
+13320,Nav and exit load are not aligned in new funds tab orderbook,19-Apr-21,29-May-21
+13319,Dropboxes  in invested funds are overlapping ,19-Apr-21,06-May-21
+13316,Amount field ,19-Apr-21,26-Apr-21
+13314,All pages are overlapping ,19-Apr-21,06-May-21
+13311,Distributor detail section ,19-Apr-21,15-May-21
+13309,Payment mode swp,19-Apr-21,26-Apr-21
+13308,"Distributor details not aligned properly in lumpsum , SIP and on cart page ",19-Apr-21,06-May-21
+13301,Start today checkbox is overlapping with expanded side menu's ,19-Apr-21,15-May-21
+13300,Text label sip,19-Apr-21,27-Apr-21
+13296,Basket invest ,19-Apr-21,06-May-21
+13289,Latest activities ,19-Apr-21,11-May-21
+13283,Dashboard contents are overlapping ,19-Apr-21,06-May-21
+13279,Nominee details,19-Apr-21,29-Apr-21
+13273,Non-kyc pan sell,19-Apr-21,06-May-21
+13264,Message displayed on login page is not aligned swp ,19-Apr-21,26-Apr-21
+13260,Delete functionality ( review and checkout ),19-Apr-21,15-May-21
+13245,Dashboard - Assest allocation,19-Apr-21,
+13243,Total gain/loss basket - Dashboard ,19-Apr-21,29-Apr-21
+13171,Nominee details page-Address,17-Apr-21,23-Apr-21
+12956,Direct Code lumpsum,15-Apr-21,06-May-21
+12870,Name As on PAN field accepting dot(.) ,15-Apr-21,
+12713,cancelled cheque,14-Apr-21,06-May-21
+12701,New funds tab - SIP and Lumpsum,14-Apr-21,20-Apr-21
+12700,Direct broker code ,14-Apr-21,15-Apr-21
+12699,SIP,14-Apr-21,15-Apr-21
+12626,Scheme selection functionality - checkout and review functionality ,12-Apr-21,27-Apr-21
+12625,Edit functionality - Review and checkout functionality,12-Apr-21,20-Aug-21
+12624,Bank details ,12-Apr-21,15-Apr-21
+12623,Bank error message ,12-Apr-21,16-Apr-21
+12594,User not able to login in Edge app,12-Apr-21,17-Apr-21
+12591,Multicap 35  funds to be renamed as flexi cap ,12-Apr-21,20-Apr-21
+12579,Holder name text label displayed is invalid ,12-Apr-21,20-Apr-21
+12575,URL to be changed ,12-Apr-21,22-Apr-21
+12573,SIP and ISIP option should be displayed as SIP only ,12-Apr-21,07-May-21
+12506,For yearly frequency total number of installments getting displayed wrong,09-Apr-21,22-Apr-21
+12503,end date display wrong for all frequencies,09-Apr-21,26-Aug-21
+12481,Terms and condition - checkout and review functionality ,09-Apr-21,20-Apr-21
+12475,Edit functionality - SIP ( checkout and review ) ,09-Apr-21,15-Apr-21
+12472,Edit functionality - SIP ( checkout and review ) ,09-Apr-21,26-Apr-21
+12469,Edit functionality - SIP ( checkout and review ) ,09-Apr-21,15-Apr-21
+12433,Netbanking is displayed as mode of payment for SIP,09-Apr-21,17-Apr-21
+12430,Non kyc pan in scheme basket,09-Apr-21,28-Apr-21
+12418,Direct and regular plan code displayed is invalid ,08-Apr-21,16-Apr-21
+12374,Page loading ,07-Apr-21,17-Apr-21
+12349,Apply to scheme button is not working ,07-Apr-21,16-Apr-21
+12333,Edit icon - Review and checkout functionality,07-Apr-21,17-Apr-21
+12173,Save later functionality ,05-Apr-21,16-Apr-21
+12172,Add new broker for sip ,05-Apr-21,
+12171,Euin checkbox for swp,05-Apr-21,16-Apr-21
+12166,Folio number displayed is invalid stp ,05-Apr-21,14-May-21
+12161,SIP,05-Apr-21,28-Apr-21
+12142,Distributor details provide no validation ,05-Apr-21,08-May-21
+12136,Distributor details icon ( green icon),05-Apr-21,27-Apr-21
+12124,Direct ribbon and cart is not displayed for direct plans ,05-Apr-21,16-Apr-21
+12123,Holder name and info icon is not displayed in cart ,05-Apr-21,17-Jul-21
+12121,Cashflow icon sip ,05-Apr-21,20-Apr-21
+12112,UI is not proper swp,05-Apr-21,06-May-21
+12073,No error message is displayed on orderbook ,04-Apr-21,09-Apr-21
+12072,Cross button / Cancel button,04-Apr-21,09-Apr-21
+12071,End date for fortnightly is displayed wrong,04-Apr-21,
+12070,Error message displayed is wrong ,04-Apr-21,26-Apr-21
+12069,Short blast or sip,04-Apr-21,28-Apr-21
+12068,No validation is given for annual - short blast ,04-Apr-21,27-Apr-21
+12067,minimum amount should be displayed as 1000 for tenure  as  short blast ,04-Apr-21,09-Apr-21
+12066,End date for quarterly short blast is wrong ,04-Apr-21,29-Apr-21
+12065,Minimum amount for quarterly frequency should be Rs.1500/-,04-Apr-21,09-Apr-21
+12064,Weekly frequency for swp,04-Apr-21,09-Apr-21
+12063,Quarterly installments does not match for perpetual ,04-Apr-21,26-Aug-21
+12061,Weekly start date and date is  displayed is wrong in case of perpetual ,03-Apr-21,01-Jun-21
+12040,Folio numbers are repeated multiple times for lumpsum ,03-Apr-21,28-Apr-21
+12016,Number of installments should be allowed to enter manually .,03-Apr-21,09-Apr-21
+12015,By default regular plan is displayed when checked on cart icon,03-Apr-21,09-Apr-21
+12013,Option type does not change for schemes when checked on cart icon ,03-Apr-21,09-Apr-21
+12009,Multicap scheme name should be changed to flexicap ,03-Apr-21,20-Apr-21
+11994,Minimum amount displayed for short blast is 500,01-Apr-21,14-Apr-21
+11993,First letter is small for every frequency ,01-Apr-21,14-Apr-21
+11992,End date does not change lumpsum,01-Apr-21,05-Apr-21
+11991,Two buttons are displayed for new investor kyc pan sip ,01-Apr-21,29-Apr-21
+11990,Back button to be removed,01-Apr-21,22-Apr-21
+11951,Only net banking page is displayed ,01-Apr-21,16-Apr-21
+11949,UTR number input field missing in cart ,01-Apr-21,16-Apr-21
+11928,Date filter not working for systematic transactions,01-Apr-21,06-Aug-21
+11915,Pan accepted for minor nominee is invalid sip ,01-Apr-21,22-Apr-21
+11833,.On postlogin header and footer part is displayed in order summary page ,26-Mar-21,27-Apr-21
+11831,After order summary there should be navigation button present ,26-Mar-21,20-Apr-21
+11830,For minor nominee guardian pan should be asked on sip,26-Mar-21,01-Apr-21
+11829,Guardian pan details should be prefilled ,26-Mar-21,01-Apr-21
+11720,Frequencies are not displayed acc.to installments,24-Mar-21,
+11671,Transaction date and time is displayed wrong sell,24-Mar-21,30-Mar-21
+11642,Set booster field should not be displayed if no booster instruction is set.,23-Mar-21,30-Mar-21
+11641,URN number should not be displayed if transaction is failed,23-Mar-21,18-May-21
+11583,Confirmation Successful page displays incorrect values,08-Mar-21,06-May-21
+11582,Sip booster functionality ,08-Mar-21,11-May-21
+11569,No of installments are displayed wrong for ISIP,15-Mar-21,
+11553,Values for selected scheme displayed as previous scheme,17-Feb-21,25-Aug-21
+11544,Page displays boxes in red,03-Mar-21,18-May-21
+11505,Portfolio details view,04-Mar-21,28-Apr-21
+11498,"For scheme wise and foliowise portfolio details, wrong data is displayed ",08-Mar-21,06-May-21
+11483,HUF ,15-Mar-21,15-Jul-21
+11158,STP page goes blank ,19-Mar-21,20-Mar-21
+10785,Page displays Transaction error : undefined for Invest on payment page,16-Mar-21,20-Mar-21
+10635,Bottom page is displayed when redirected to payment,12-Mar-21,12-Mar-21
+10539,Guardian name field should be non editable ,10-Mar-21,12-Mar-21
+10538,Minor and guardian pan accepts invalid pan ,10-Mar-21,17-Mar-21
+10504,Loader missing ,10-Mar-21,17-Mar-21
+10502,Scroll bar for onboarding page ,10-Mar-21,19-Mar-21
+10245,User is not able to click on Submit button,08-Mar-21,10-Mar-21
+10049,"In guardian details page , DOB field accepts future date",04-Mar-21,10-Mar-21
+10045,No validation message is given for DOB field ,04-Mar-21,10-Mar-21
+10022,Account number accepts more than 18 digits,03-Mar-21,10-Mar-21
+9988,Continue to KYC button is missing ,03-Mar-21,10-Mar-21
+9832,No validation provided for guardian details page when fields kept blank ,01-Mar-21,10-Mar-21
+9830,Create new folio - Accepts date of birth less than 18 years ,01-Mar-21,10-Mar-21
+9823,Create new folio - pan number should be in capital letters and a validation should be provided ,01-Mar-21,10-Mar-21
+9817,Create new folio - Accepts mobile number starting from 5 ,01-Mar-21,10-Mar-21
+9329,Pan number field and pan name field should be non editable and prefilled for user ,18-Feb-21,08-Mar-21
+9222,Redeem- Amount in words is displayed wrong ,18-Feb-21,25-Feb-21
+9216,When switching from full redeem to partial redeem the amount displayed is wrong.,18-Feb-21,22-Mar-21
+8074,Absolute return values are not displayed ,02-Feb-21,25-Feb-21
+8071,ISIP second debit can be set as current date ,02-Feb-21,16-Feb-21
+8070,Second debit date is accepted less than 21 days from current date ,02-Feb-21,15-Feb-21
+8068,For weekly frequency it accepts wrong days,02-Feb-21,25-Feb-21
+8066,Fortnightly frequency accept wrong dates ,02-Feb-21,25-Feb-21
+8062,Accepts invalid code for  sub distributor ARN and internal sub broker /employee code,02-Feb-21,15-Feb-21
+8017,Amount is not displayed in Full Switch mode,02-Feb-21,10-Mar-21
+7993,Error message is displayed wrong,01-Feb-21,28-Apr-21
+7991,Incorrect amount is displayed in words ,01-Feb-21,15-Feb-21
+7987,Bank details section is not working properly ,01-Feb-21,15-Feb-21
+7985,Minimum investment amount for quarterly and fortnightly are not displayed properly,01-Feb-21,15-Feb-21
+7984,Incorrect number of installments and minimum investment amount  displayed,01-Feb-21,15-Feb-21
+7983,Multiple options can be selected in SWP percentage selector,01-Feb-21,15-Feb-21
+7898,Accepts incorrect debit date in ISIP ,29-Jan-21,15-Feb-21
+7893,Second debit date and end date displays incorrect date,29-Jan-21,06-Feb-21
+7774,Transaction  is not taking place,28-Jan-21,15-Feb-21
+7718,End date is not changing for Annual/Quarterly frequency,27-Jan-21,15-Feb-21
+7704,"In SIP Frequency, tabs are displayed multiple times",27-Jan-21,06-Feb-21
+7682,Current value in rupees is not displayed ,25-Jan-21,16-Feb-21
+7672,Continue to payment button is not working,25-Jan-21,02-Mar-21
+7671,"No validation provided for ""Enter Your Investment Amount"" field",25-Jan-21,16-Feb-21
+7337,Accepts different name in pan name name field,19-Jan-21,12-Mar-21
+7326,KYC verified PAN id is considered as non-KYC verified PAN id,19-Jan-21,06-Mar-21
+7321,By default Mutual Fund tab not showing as selected,19-Jan-21,20-Aug-21
+5769,"CMS - Accepts invalid inputs in name, designation and description field",16-Dec-20,16-Dec-20
+5744,CMS(About us) - image not displayed on website,16-Dec-20,16-Dec-20
+5664, Minimum scroll bar amount displayed in textbox is upto 25000,14-Dec-20,19-Mar-21
+5657,Minimum scroll bar is upto Rs. 2500 ,14-Dec-20,19-Mar-21
